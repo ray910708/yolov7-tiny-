@@ -1,0 +1,7 @@
+person
+car
+cat
+dog
+bicycle
+motorcycle
+sidewalk
